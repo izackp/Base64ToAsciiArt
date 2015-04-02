@@ -2,7 +2,7 @@
 Converts a base64 encoded image to ASCII art
 
 #### Usage
-Input must have 2-3 arguments:
+Input must have 2 arguments:
 
 1.  Base64 Encoded Image
 2.  Pixel Resolution
